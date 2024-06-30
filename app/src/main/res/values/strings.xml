@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Advance XOX</string>
+    <string name="GoToHome">Go to Home</string>
+    <string name="HighestScore">Highest Score</string>
+    <string name="enterNames">ENTER \n PLAYERS NAMES</string>
+    <string name="EnterPlayerOne">"Enter player one "</string>
+    <string name="EnterPlayerTwo">"Enter player two "</string>
+    <string name="StartGame">Start Game</string>
+    <string name="PlayerOne">Player One</string>
+    <string name="PlayerTwo">Player Two</string>
+    <string name="PlayeroneScore">Player one Score</string>
+    <string name="PlayerTwoScore">Player Two Score</string>
+    <string name="Results">Results</string>
+    <string name="StartAgain">Start Again</string>
+</resources>
